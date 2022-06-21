@@ -6,7 +6,7 @@
 This is a Decimal, Binary and Hexadecimal Converter made with [Vuejs](https://v3.vuejs.org/).
 It's a normal Converter, But with a Matrix rain animation in Background. 
 The code is avaible on [GitHub](https://github.com/CapoStudios/bin2bin) and it's Open Source.
-I Hope this little project helps new developers with Vuejs.
+I Hope this little project helps new developers with [Vuejs](https://v3.vuejs.org/).
 
 GitHub Page [Here](https://capostudios.github.io/bin2bin/)
 
