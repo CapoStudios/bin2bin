@@ -1,6 +1,6 @@
 # bin2bin
 
-<img width="400" src="https://github.com/CapoStudios/bin2bin/blob/mocho/src/assets/Screenshot.png">
+<img width="500" src="https://github.com/CapoStudios/bin2bin/blob/mocho/src/assets/Screenshot.png">
 
 ## Description
 This is a Decimal, Binary and Hexadecimal Converter made with [Vuejs](https://v3.vuejs.org/).
