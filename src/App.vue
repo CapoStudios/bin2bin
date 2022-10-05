@@ -28,6 +28,11 @@ export default {
   padding: 0;
 }
 
+::selection {
+    background-color: #22b455;
+    color: #000;
+}
+
 canvas {
   display: block;
   position: absolute;
