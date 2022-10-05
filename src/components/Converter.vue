@@ -70,6 +70,7 @@ export default {
   display: block;
   margin-left: 7px;
   font-size: 1.1rem;
+  cursor: text;
 }
 .form-control input {
   width: 97%;
